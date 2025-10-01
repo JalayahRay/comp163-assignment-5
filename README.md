@@ -1,1 +1,1 @@
-# -comp163-assignment-5
+# COMP 163 - Assignment 5: Loop Mastery
